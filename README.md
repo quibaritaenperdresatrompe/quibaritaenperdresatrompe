@@ -1,16 +1,23 @@
-### Hi there 👋
+## `intro.pptx`
 
-<!--
-**quibaritaenperdresatrompe/quibaritaenperdresatrompe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> #### Hello, tu peux m'appeler Valentin 👋
+>
+> 🏫 Ingénieur généraliste à l'[**ESTIA**](https://www.estia.fr/)
+>
+> 🧑‍💻 Développeur web spécialisé en JavaScript et React
+>
+> ⛰️ Directeur technique et co-fondateur de [**Ctrl Up**](https://www.ctrlup.dev/)
 
-Here are some ideas to get you started:
+## `qbaepst.sh`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+$ qbaepst --help
+
+  Usage: qbaepst [command] [options]
+
+  Options:
+  
+    -V, --version                     output the version number
+    --non-interactive                 Fail, if an interactive prompt would be required to continue.
+    -h, --help                        output usage information
+```
