@@ -2,11 +2,11 @@
 
 > #### Hello, tu peux m'appeler Valentin 👋
 >
-> 🏫 Ingénieur généraliste à l'[**ESTIA**](https://www.estia.fr/)
+> ⛰️ Directeur technique et co-fondateur de [**Ctrl Up**](https://www.ctrlup.dev/)
 >
 > 🧑‍💻 Développeur web spécialisé en JavaScript et React
 >
-> ⛰️ Directeur technique et co-fondateur de [**Ctrl Up**](https://www.ctrlup.dev/)
+> 🏫 Ingénieur généraliste à l'[**ESTIA**](https://www.estia.fr/)
 
 ## `qbaepst.sh`
 
